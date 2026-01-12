@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "metabase-mcp-navi"
-version = "0.1.4"
+version = "0.1.5"
 description = "A Model Context Protocol (MCP) server for Metabase - gives AI assistants direct access to dashboards, cards, and query execution"
 readme = "README.md"
 license = "MIT"
@@ -54,10 +54,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/manish-coder-1007/metabase-mcp-navi"
-Documentation = "https://github.com/manish-coder-1007/metabase-mcp-navi#readme"
-Repository = "https://github.com/manish-coder-1007/metabase-mcp-navi"
-Issues = "https://github.com/manish-coder-1007/metabase-mcp-navi/issues"
+Homepage = "https://github.com/manishbalot10/metabase-mcp-navi"
+Documentation = "https://github.com/manishbalot10/metabase-mcp-navi#readme"
+Repository = "https://github.com/manishbalot10/metabase-mcp-navi"
+Issues = "https://github.com/manishbalot10/metabase-mcp-navi/issues"
 
 [project.scripts]
 metabase-mcp-navi = "metabase_mcp_navi.server:main"
